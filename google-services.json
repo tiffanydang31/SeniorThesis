@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "474625263742",
+    "project_id": "ebtks2-200aa",
+    "storage_bucket": "ebtks2-200aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474625263742:android:78e261c40d9c01e2b4b02f",
+        "android_client_info": {
+          "package_name": "com.example.thesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474625263742-k5q92qk1hhcpqss7o42fhvptpcqpq2sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJh80tgnGw6Nn2DTJmiOD8w-e-qsLYOzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474625263742-k5q92qk1hhcpqss7o42fhvptpcqpq2sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474625263742:android:c806d0d2654f9d0fb4b02f",
+        "android_client_info": {
+          "package_name": "com.thesis.ebtks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474625263742-k5q92qk1hhcpqss7o42fhvptpcqpq2sv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJh80tgnGw6Nn2DTJmiOD8w-e-qsLYOzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474625263742-k5q92qk1hhcpqss7o42fhvptpcqpq2sv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
